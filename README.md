@@ -10,7 +10,7 @@ Hi! My name is [Sofiqul](https://sofiquldev.github.io). Thank You for taking the
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 - 💬 Ask me about **JavaScript, PHP, mySQL**
 - 📫 How to reach me: **[sofiquldev@gmail.com](mailto:sofiquldev@gmail.com)**
-
+<!-- 
 **My Reseach Interest**:
 - Classification
 
@@ -22,7 +22,7 @@ Hi! My name is [Sofiqul](https://sofiquldev.github.io). Thank You for taking the
 
 **Recent Update**:
 - **January 2021**: Age Calculator is live. [[Website]](https://reactsc.github.io/age-calc/).
-
+ -->
 <br>
 
 | ![Sofiqul's github stats](https://github-readme-stats.vercel.app/api?username=sofiquldev&show_icons=true&theme=react) | ![Sofiqul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofiquldev&theme=react) |
