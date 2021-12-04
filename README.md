@@ -2,6 +2,8 @@
 ### Hi there, I'm [Sofiqul Islam](https://sofiquldev.github.io) 👋
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=sofiquldev)
 [![Github](https://img.shields.io/github/followers/sofiquldev?label=Follow&style=social)](https://github.com/sofiquldev)
+![Twitter Follow](https://img.shields.io/twitter/follow/sofiquldev?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJNrAErSOLrwUlzQeJr9rtA?style=social)
 
 Hi! My name is [Sofiqul](https://sofiquldev.github.io). Thank You for taking the time to view my GitHub Profile :smile:
 
