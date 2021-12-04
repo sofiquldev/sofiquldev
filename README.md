@@ -25,15 +25,6 @@ Hi! My name is [Sofiqul](https://sofiquldev.github.io). Thank You for taking the
 **Recent Update**:
 - **January 2021**: Age Calculator is live. [[Website]](https://reactsc.github.io/age-calc/).
  -->
-<br>
-
-| ![Sofiqul's github stats](https://github-readme-stats.vercel.app/api?username=sofiquldev&show_icons=true&theme=react) | ![Sofiqul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofiquldev&theme=react) |
-| --- | --- |
-
-<br>
-
-[![Sofiqul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sofiquldev&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF)](https://sofiqul.dev)
-
 
 ## Connect with me:
 
@@ -47,3 +38,12 @@ Hi! My name is [Sofiqul](https://sofiquldev.github.io). Thank You for taking the
 [<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://facebook.com/sofiqul1hs)
   
 </p>
+<br>
+
+| [![Sofiqul's github stats](https://github-readme-stats.vercel.app/api?username=sofiquldev&show_icons=true&theme=react)](https://github.com/sofiquldev) | [![Sofiqul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofiquldev&theme=react)](https://github.com/sofiquldev) |
+| --- | --- |
+
+<br>
+
+[![Sofiqul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sofiquldev&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF)](https://github.com/sofiquldev)
+
