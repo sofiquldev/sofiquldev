@@ -7,7 +7,7 @@
 
 Hi! My name is [Sofiqul](https://sofiquldev.github.io). Thank You for taking the time to view my GitHub Profile :smile:
 
-- 🔭 I’m currently working on **[1 Hour Study](https://1hourstudy.com)**
+- 🔭 I’m currently working on **[Xirosoft](https://xirosoft.com)**
 - 🌱 I’m currently learning <kbd>React Native</kbd>
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 - 💬 Ask me about **JavaScript, PHP, mySQL**
